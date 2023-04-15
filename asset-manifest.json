@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cozy-counter/static/css/main.02951f2f.css",
-    "main.js": "/cozy-counter/static/js/main.ed0abffa.js",
+    "main.js": "/cozy-counter/static/js/main.9ef6da98.js",
     "static/media/bg.jpg": "/cozy-counter/static/media/bg.14a059bfa260bf3205f9.jpg",
     "index.html": "/cozy-counter/index.html",
     "main.02951f2f.css.map": "/cozy-counter/static/css/main.02951f2f.css.map",
-    "main.ed0abffa.js.map": "/cozy-counter/static/js/main.ed0abffa.js.map"
+    "main.9ef6da98.js.map": "/cozy-counter/static/js/main.9ef6da98.js.map"
   },
   "entrypoints": [
     "static/css/main.02951f2f.css",
-    "static/js/main.ed0abffa.js"
+    "static/js/main.9ef6da98.js"
   ]
 }

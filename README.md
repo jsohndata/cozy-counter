@@ -1,4 +1,4 @@
-# React Counter App
+# Coazy Counter
 Cozy Counter is a React.js app that showcases the useState() hook for BocaCode C-10. It creates a basic counter that can be incremented or decremented with user input, demonstrating how the hook manages state in functional components. 
 
 ![Screen Shot](./public/images/readme.webp)

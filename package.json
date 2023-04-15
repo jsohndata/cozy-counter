@@ -1,6 +1,6 @@
 {
-  "name": "lazy-sunday-counter",
-  "homepage": "https://jsohndata.github.io/react-counter-app",
+  "name": "cozy-counter",
+  "homepage": "https://jsohndata.github.io/cozy-counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

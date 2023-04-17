@@ -3,7 +3,7 @@ Cozy Counter is a React.js app that showcases the `useState()` hook for BocaCode
 
 [![Screen Shot](./public/images/readme.webp)](https://jsohndata.github.io/cozy-counter/)
 
-## Link(s)
+## Site
 * 👉 [jsohndata.github.io/cozy-counter](https://jsohndata.github.io/cozy-counter/)
 
 <br>
